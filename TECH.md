@@ -53,7 +53,7 @@ LangChain provides pre-built abstractions for the full RAG lifecycle — documen
 
 ### 3.3 OpenAI API
 **Embedding model:** `text-embedding-3-small`  
-**Chat model:** `gpt-4o-mini` (configurable)  
+**Chat model:** `gpt-5.4` (configurable)  
 **Role:** Embeddings for indexing + LLM for answer generation
 
 **Reason:**  
